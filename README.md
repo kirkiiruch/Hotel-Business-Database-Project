@@ -31,7 +31,3 @@ Any SQL-compatible RDBMS (preferably Oracle or PostgreSQL due to triggers/sequen
 2. Verify tables, insert sample data, and test the views and triggers.
 3. Use the `samplee.pdf` file for understanding the logic behind each component.
 
-## 🧑‍💻 Author
-
-Your Name / Team Name  
-Contact: [email@example.com]
